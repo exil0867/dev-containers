@@ -4,4 +4,4 @@
 sudo apt update && sudo apt -y upgrade
 
 # Install Dev Container CLI
-yarn global add @devcontainers/cli
+npm i @devcontainers/cli --global
